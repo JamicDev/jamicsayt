@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    background-image: url(img/black-line-web-design-and-front-end-development-icon-isolated-seamless-pattern-on-green-background-vector-700-237736866.jpg);
+    background-size: cover;
+    
+
+}
+
+#continer{
+    width: 1440px;
+    height: 770px;
+    background: #010032;
+    border-radius: 0px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    font-family: sans-serif;
+
+}
+.wrapper{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    margin: 0 0 0 80px;
+    justify-content: space-between;
+}
+.box{
+    height: 100%;
+    box-sizing: border-box;
+}
+.box .box1{
+    width: 792px;
+}
+.box .box2{
+    width: 648px;
+}
+.box2 img{
+    height: 770px;
+}
+.box1 .h1{
+width: 604px;
+height: 227px;
+}
+.h1 h1{
+        
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 76px;
+/* or 105% */
+
+
+color: #FFFFFF;
+}
+.box1 .p{
+width: 543px;
+height: 103px;    
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 34px;
+/* or 155% */
+
+
+color: #FFFFFF;
+
+}
+
+button{
+border: none;
+margin-top: 23px;  
+background: #FFFFFF;
+/* border: 2px solid #FFFFFF; */
+box-sizing: border-box;
+border-radius: 32px;
+width: 203px;
+height: 69px;
+font-style: normal;
+margin: 21px;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+justify-content: center;
+/* identical to box height, or 140% */
+color: #000000
+}
+button img{
+    border: 1px solid;
+    width: 18px;
+    height: 18px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+.wrapper2{
+    width: 363px;
+    height: 68px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    
+}
+.gap1{
+    background-color: #010032;
+}
+.qap1 img{
+    width: 64px;
+    height: 64px;
+    margin-top: 30px;
+
+
+}
+.gap2 h2{
+margin: 0;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+
+color: #FFFFFF;
+
+}
+.gap2{
+    height: 23px;
+    margin-left: 24px;
+}
+.gap2 p{
+margin: 0;
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 149% */
+
+
+color: rgba(255, 255, 255, 0.6);
+
+}
+
+
